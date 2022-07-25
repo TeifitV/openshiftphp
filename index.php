@@ -1,6 +1,6 @@
 <html> 
 	<head> 
-	<title>PHP</title>
+	<title>PHP TOMAS VARGAS</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 	</head>
 
